@@ -1,0 +1,2 @@
+# Wallet
+Coins Wallet
